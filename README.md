@@ -24,3 +24,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+---
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  
+#### :heart Thanks for visiting:
+![VisitorCount](https://profile-counter.glitch.me/ImGabreuw/count.svg)
