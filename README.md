@@ -14,17 +14,19 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImGabreuw&show_icons=true&theme=whitea&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&langs_count=8&theme=white"/>
+  <a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImGabreuw&show_icons=true&theme=whitea&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&langs_count=8&theme=white"/>
 </a>
 
 ---
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://github.com/ImGabreuw" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
- </a>
+  <a 
+     href="https://github.com/ImGabreuw" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-         badge&logo=Github&logoColor=white" />
+    href="" target="_blank"><img alt="Discorrd" src="https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-         badge&logo=Discord&logoColor=white" />
+</a>
 
 ---
 #### ♥️ Thanks for visiting:
