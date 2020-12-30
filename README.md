@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on ... a minecraft server.
 - 🌱 I’m currently learning ... Spring Boot
 - 👯 I’m looking to collaborate on ... ![iluwatar´s git repository](https://github.com/iluwatar/java-design-patterns)
-- 😄 Pronouns: ...
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
