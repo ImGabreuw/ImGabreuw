@@ -20,7 +20,7 @@
 </a>
 
 ---
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
   <a href="https://github.com/ImGabreuw"><img src="https://img.shields.io/badge/-ImGabreuw-black?logo=github&style=flat-square"/></a>
