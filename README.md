@@ -1,30 +1,48 @@
 # Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
-  
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ---
+
 ### 🤵 About Me:
 
-- 🔭 I’m currently working on ... a minecraft server.
-- 🌱 I’m currently learning ... Spring Boot
-- 👯 I’m looking to collaborate on ... ![iluwatar´s git](https://github.com/iluwatar/java-design-patterns)
+- 🔭 I’m currently working on Rede Maze.
+- 💡 I’m currently learning Spring Framework and web technologies, like html, css and js
+- 🥅 2021 goals: become a full stack developer
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/AVS1508">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImGabreuw&show_icons=true&theme=whitea&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&langs_count=8&theme=white"/>
+    <img 
+         height="180em" 
+         src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImGabreuw&show_icons=true&theme=whitea&include_all_commits=true&count_private=true"
+    />
+    
+    <img 
+      height="200em
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&langs_count=8&theme=white"
+    />
 </a>
 
 ---
 ### 🤝🏻 &nbsp;Connect with Me 
 
-<p align="center">
-  <a href="https://github.com/ImGabreuw"><img src="https://img.shields.io/badge/-ImGabreuw-black?logo=github&style=flat-square"/></a>
-</a>
+<p align="left"
+  <a href="https://github.com/ImGabreuw">
+    <img 
+       src="https://github.com/ImGabreuw/ImGabreuw/blob/master/github.svg"
+       alt="github"
+    />
+  </a>
+</p
+<p align="left"
+   <img 
+      src="https://github.com/ImGabreuw/ImGabreuw/blob/master/discord.svg"
+      alt="discord
+      title="Gabreuw__#9336"
+    />
+</p
 
 ---
 #### ♥️ Thanks for visiting:
