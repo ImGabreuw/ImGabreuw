@@ -21,7 +21,8 @@
       height="180em
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&langs_count=8&theme=white"
     />
-</a>
+  </a>
+</p>
 
 ---
 ### 🤝🏻 &nbsp;Connect with Me 
