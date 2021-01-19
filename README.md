@@ -10,16 +10,9 @@
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-    <img 
-       height="180em" 
-       src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImGabreuw&show_icons=true&theme=whitea&include_all_commits=true&count_private=true"
-    />
-    <img 
-      height="180em
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&langs_count=8&theme=white"
-    />
-</p>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ImGabreuw&show_icons=true&hide_border=true&theme=white" />
+
+<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&theme=dark&hide_border=true" />
 
 ---
 ### 🤝🏻 &nbsp;Connect with Me 
