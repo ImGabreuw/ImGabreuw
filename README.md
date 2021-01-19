@@ -29,6 +29,8 @@
 <p align="left"
   <a href="https://github.com/ImGabreuw">
     <img 
+       width="26px"
+       height="26px"
        src="https://github.com/ImGabreuw/ImGabreuw/blob/master/github.svg"
        alt="github"
     />
@@ -36,6 +38,8 @@
 </p
 <p align="left"
    <img 
+      width="26px"
+      height="26px"
       src="https://github.com/ImGabreuw/ImGabreuw/blob/master/discord.svg"
       alt="discord
       title="Gabreuw__#9336"
