@@ -40,9 +40,6 @@
       title="Gabreuw__#9336"
     />
 </p
-<p align="left"
-</p
-
 ---
 #### ♥️ Thanks for visiting:
 ![VisitorCount](https://profile-counter.glitch.me/ImGabreuw/count.svg)
