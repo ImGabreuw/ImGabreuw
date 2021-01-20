@@ -1,4 +1,7 @@
-# Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hello 
+<img 
+  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" 
+  width="29px">
 <p align="center">
 
 ### 🤵 About Me:
@@ -10,9 +13,15 @@
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ImGabreuw&show_icons=true&hide_border=true&theme=white" />
+<img 
+  alt="GitHub Stats" 
+  src="https://github-readme-stats.vercel.app/api?username=ImGabreuw&show_icons=true&hide_border=true&theme=white"
+/>
 
-<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&theme=white&hide_border=true" />
+<img 
+  alt="Language Stats" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&theme=white&hide_border=true" 
+/>
 
 ---
 ### 🤝🏻 &nbsp;Connect with Me 
