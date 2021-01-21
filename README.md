@@ -23,7 +23,7 @@
 ---
 ### 🤝🏻 &nbsp;Connect with Me 
 
-<div align="left"
+<p align="left"
   <a href="https://github.com/ImGabreuw">
     <img 
        width="26px"
@@ -39,7 +39,9 @@
       alt="discord
       title="Gabreuw__#9336"
     />
-</div>
+</p>
+
 ---
+
 #### ♥️ Thanks for visiting:
 ![VisitorCount](https://profile-counter.glitch.me/ImGabreuw/count.svg)
