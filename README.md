@@ -29,14 +29,12 @@
        width="26px"
        height="26px"
        src="https://github.com/ImGabreuw/ImGabreuw/blob/master/github.svg"
-       alt="github"
     />
   </a>
   <img 
       width="26px"
       height="26px"
       src="https://github.com/ImGabreuw/ImGabreuw/blob/master/discord.svg"
-      alt="discord
       title="Gabreuw__#9336"
     />
 </p>
