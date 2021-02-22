@@ -42,4 +42,4 @@
 ---
 
 #### ♥️ Thanks for visiting:
-![VisitorCount](https://profile-counter.glitch.me/ImGabreuw/count.svg)
+![](https://komarev.com/ghpvc/?username=ImGabreuw&color=blue&style=flat)
