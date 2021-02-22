@@ -41,5 +41,4 @@
 
 ---
 
-#### ♥️ Thanks for visiting:
 ![](https://komarev.com/ghpvc/?username=ImGabreuw&color=blue&style=flat)
