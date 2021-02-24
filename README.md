@@ -10,15 +10,9 @@
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 
-<img 
-  alt="GitHub Stats" 
-  src="https://github-readme-stats.vercel.app/api?username=ImGabreuw&show_icons=true&hide_border=true&theme=white"
-/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImGabreuw)](https://github.com/anuraghazra/github-readme-stats)
 
-<img 
-  alt="Language Stats" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&theme=white&hide_border=true" 
-/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 🤝🏻 &nbsp;Connect with Me 
