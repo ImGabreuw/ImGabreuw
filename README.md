@@ -31,7 +31,7 @@
 <div align="left"> 
       <img 
          width="450px" 
-         src="https://github-readme-stats.vercel.app/api?username=ImGabreuw&show_icons=true&include_all_commits=true&count_private=true&theme=white&line_height=29.5"
+         src="https://github-readme-stats.vercel.app/api?username=ImGabreuw&show_icons=true&include_all_commits=true&count_private=true&theme=white&line_height=30"
       />
       <img 
          width="330px" 
