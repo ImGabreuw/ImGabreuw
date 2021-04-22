@@ -4,8 +4,8 @@
 ### 🤵 About Me:
 
 - 🔭 I’m currently working on Rede Maze.
-- 💡 I’m currently learning Spring Framework and web technologies, like html, css and js
-- 🥅 2021 goals: become a full stack developer
+- 💡 I’m currently learning Spring Framework.
+- 🥅 2021 goals: learn ReactJS and NextJS
 
 ---
 
