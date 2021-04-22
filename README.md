@@ -56,6 +56,13 @@
       src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
     />
    </a>
+   <a href="https://www.linkedin.com/in/gabriel-geronazzo-981382203/">
+    <img 
+      alt="LinkedIn" 
+      title="Gabriel Geronazzo"
+      src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+   </a>
 </div>
 
 ---
