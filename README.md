@@ -35,7 +35,7 @@
       />
       <img 
          width="330px" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&theme=white&langs_count=10"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&theme=white&langs_count=10&hide=jupyter%20notebook"
       >
 </div
 
