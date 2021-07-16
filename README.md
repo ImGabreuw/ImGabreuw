@@ -3,9 +3,10 @@
 
 ### 🤵 About Me:
 
-- 🔭 I’m currently working on Rede Maze.
-- 💡 I’m currently learning Spring Framework.
-- 🥅 2021 goals: learn ReactJS and NextJS
+- 🔭 I’m currently working on **Rede Maze**
+- 💡 I’m currently learning **Go, Kotlin and Python**
+- 💬 Ask me about **Java**
+- 🥅 2021 goals: learn **ReactJS, NextJS and Kubernetes**
 
 ---
 
@@ -17,12 +18,16 @@
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -31,11 +36,11 @@
 <div align="left"> 
       <img 
          width="450px" 
-         src="https://github-readme-stats.vercel.app/api?username=ImGabreuw&show_icons=true&include_all_commits=true&count_private=true&theme=white&line_height=30"
+         src="https://github-readme-stats.vercel.app/api?username=ImGabreuw&show_icons=true&include_all_commits=true&count_private=true&theme=dark&line_height=30"
       />
       <img 
          width="330px" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&theme=white&langs_count=10&hide=jupyter%20notebook"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook"
       >
 </div
 
