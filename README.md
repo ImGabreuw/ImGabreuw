@@ -4,12 +4,12 @@
 ### 🤵 About Me
 
 - 🔭 I’m currently working on **Rede Maze**
-- 💡 I’m currently learning **Go, Kotlin and Python**
+- 💡 I’m currently learning **JavaScript and TypeScript**
 - 💬 Ask me about **Java**
-- 🥅 2021 goals: learn **ReactJS, NextJS and Kubernetes**
+- 🥅 2022 goals: learn **Kubernetes and Cloud Computing Services**
 
 ---
-
+      
 ### 📚 My Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
@@ -30,7 +30,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
+      
 ### ⚙️ GitHub Analytics
 
 <div align="left"> 
@@ -45,7 +45,7 @@
 </div
 
 ---
-
+      
 ### 🤝🏻 Connect with Me 
 
 <div align="left">
