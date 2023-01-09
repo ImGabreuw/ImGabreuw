@@ -40,8 +40,8 @@
       <img 
          width="330px" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook"
-      >
-</div
+      />
+</div>
       
 ### 🤝🏻 Connect with Me 
 
