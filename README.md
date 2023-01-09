@@ -1,10 +1,10 @@
-# Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px">
+# Hello <img src="./assets/Hi.gif" height="29px">
 <p align="center">
 
 ### 🤵 About Me
 
 - 🔭 I’m currently working on **Rede Maze**
-- 💡 I’m currently learning **JavaScript and TypeScript**
+- 💡 I’m currently learning **TypeScript**
 - 💬 Ask me about **Java**
 - 🥅 2022 goals: learn **Kubernetes and Cloud Computing Services**
 
