@@ -4,9 +4,9 @@
 ### 🤵 About Me
 
 - 🔭 I’m currently working on **Rede Maze**
-- 💡 I’m currently learning **TypeScript**
-- 💬 Ask me about **Java**
-- 🥅 2022 goals: learn **Kubernetes and Cloud Computing Services**
+- 💡 I’m currently learning **Nest.js**
+- 💬 Ask me about **Java** and **JavaScript**
+- 🥅 2023 goals: learn **Nest.js and Cloud Computing Services**
 
 ### 📚 My Stack
 
