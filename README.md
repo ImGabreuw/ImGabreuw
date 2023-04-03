@@ -4,9 +4,9 @@
 ### 🤵 About Me
 
 - 🔭 I’m currently working on **Rede Maze**
-- 💡 I’m currently learning **Nest.js**
+- 💡 I’m currently learning **ML with python**
 - 💬 Ask me about **Java** and **JavaScript**
-- 🥅 2023 goals: learn **Nest.js and Cloud Computing Services**
+- 🥅 2023 goals: learn **Machine Learning and Cloud Computing Services**
 
 ### 📚 My Stack
 
@@ -34,7 +34,7 @@
 
 <div align="left"> 
       <img 
-         width="450px" 
+         width="492px" 
          src="https://github-readme-stats.vercel.app/api?username=ImGabreuw&show_icons=true&include_all_commits=true&count_private=true&theme=dark&line_height=30"
       />
       <img 
