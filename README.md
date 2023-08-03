@@ -1,7 +1,7 @@
 <h2 align="center">👋 Welcome to my GitHub Universe!</h2>
 
 <p align="center">
-  <img src="github-header-image.png" alt="Banner" width="100%">
+  <img src="./assets/github-header-image.png" alt="Header Image" width="100%">
 </p>
 
 ### 🌌 About Me
