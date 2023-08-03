@@ -1,14 +1,16 @@
-# Hello <img src="./assets/Hi.gif" height="29px">
+<h2 align="center">👋 Welcome to my GitHub Universe!</h2>
+
 <p align="center">
+  <img src="github-header-image.png" alt="Banner" width="100%">
+</p>
 
-### 🤵 About Me
+### 🌌 About Me
 
-- 🔭 I’m currently working on **Rede Maze**
-- 💡 I’m currently learning **ML with python**
-- 💬 Ask me about **Java** and **JavaScript**
-- 🥅 2023 goals: learn **Machine Learning and Cloud Computing Services**
+Hello! My name is Gabriel Ken Kazama Geronazzo, and I am a software engineer passionate about challenges and driven by a proactive mindset. I firmly believe that the best way to learn is by teaching, which led me to document my learning journey on my [GitHub](https://github.com/ImGabreuw/notes). This experience not only accelerated my growth but also allowed me to build valuable connections with other developers, creating a network of knowledge and mutual support.
 
-### 📚 My Stack
+My goal for 2023 is to further enhance my knowledge in Machine Learning and explore cloud computing services to create efficient and innovative solutions in the financial market, contributing to the growth of companies and positively impacting people's lives.
+
+### 🛠️ Technologies and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -29,44 +31,23 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-      
-### ⚙️ GitHub Analytics
 
-<div align="left"> 
-      <img 
-         width="492px" 
-         src="https://github-readme-stats.vercel.app/api?username=ImGabreuw&show_icons=true&include_all_commits=true&count_private=true&theme=dark&line_height=30"
-      />
-      <img 
-         width="330px" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabreuw&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook"
-      />
+### 🤝 Let's Connect!
+
+Feel free to get in touch with me to discuss projects, exchange ideas, and explore new collaboration opportunities.
+
+<p align="center">
+  <a href="https://discordapp.com/users/Gabreuw__#9336">
+    <img src="https://img.shields.io/badge/Discord-Gabreuw__%239336-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://github.com/ImGabreuw" style="padding-inline: 16px;">
+    <img src="https://img.shields.io/badge/GitHub-ImGabreuw-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-geronazzo-981382203/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Geronazzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImGabreuw&color=blue&style=flat" alt="Visitors Count">
 </div>
-      
-### 🤝🏻 Connect with Me 
-
-<div align="left">
-  <img 
-     alt="Discord" 
-     title="Gabreuw__#9336"
-     src="https://img.shields.io/badge/Gabreuw__%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"
-   />
-   <a href="https://github.com/ImGabreuw">
-    <img 
-      alt="GitHub" 
-      title="ImGabreuw"
-      src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
-    />
-   </a>
-   <a href="https://www.linkedin.com/in/gabriel-geronazzo-981382203/">
-    <img 
-      alt="LinkedIn" 
-      title="Gabriel Geronazzo"
-      src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-   </a>
-</div>
-
----
-
-![visitors count](https://komarev.com/ghpvc/?username=ImGabreuw&color=blue&style=flat)
