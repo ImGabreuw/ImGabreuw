@@ -1,36 +1,52 @@
-<h2 align="center">👋 Welcome to my GitHub Universe!</h2>
+<h1 align="center">👋 Welcome to my GitHub Universe!</h1>
 
-<p align="center">
-  <img src="./assets/github-header-image.png" alt="Header Image" width="100%">
-</p>
+<div align="center">
+  <div style="
+    max-width: 650px;
+    margin: 30px auto;
+    padding: 25px 30px;
+    border-radius: 12px;
+    background: linear-gradient(145deg, #f9f9f9, #e6e6e6);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    color: #333;">
+    <p style="
+      font-size: 18px;
+      line-height: 1.6;
+      font-style: italic;
+      position: relative;
+      padding: 0 15px;">
+      <span style="
+        font-size: 28px;
+        position: absolute;
+        left: -10px;
+        top: -5px;
+        color: #666;">❝</span>
+      The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.
+      <span style="
+        font-size: 28px;
+        position: absolute;
+        right: -10px;
+        bottom: -15px;
+        color: #666;">❞</span>
+    </p>
+    <p style="
+      text-align: right;
+      font-weight: 500;
+      margin-top: 15px;">
+      — Marcel Proust
+    </p>
+  </div>
+</div>
 
-### 🌌 About Me
+## 🌌 About Me
 
-Hello! My name is Gabriel Ken Kazama Geronazzo, and I am a software engineer passionate about challenges and driven by a proactive mindset. I firmly believe that the best way to learn is by teaching, which led me to document my learning journey on my [GitHub](https://github.com/ImGabreuw/notes). This experience not only accelerated my growth but also allowed me to build valuable connections with other developers, creating a network of knowledge and mutual support.
+Hi, I'm Gabriel Ken Kazama Geronazzo — a software engineer who believes that technology only makes sense when it connects people, solves real problems, and generates positive impact.
 
-My goal for 2023 is to further enhance my knowledge in Machine Learning and explore cloud computing services to create efficient and innovative solutions in the financial market, contributing to the growth of companies and positively impacting people's lives.
+My journey has always been about turning challenges into opportunities to see and do things differently. I thrive on building bridges between people and ideas, and I see every project as a chance to innovate and grow. For me, sharing knowledge is multiplying opportunities: that's why I created my [digital garden](https://imgabreuw.github.io/notes/), a space where I compile everything I've learned programming, leading teams, and building businesses. Along this path, I've had the privilege of both mentoring and being mentored by incredible people — each exchange a genuine opportunity for growth.
 
-### 🛠️ Technologies and Tools
+## 🤝 Let's Connect!
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🤝 Let's Connect!
-
-Feel free to get in touch with me to discuss projects, exchange ideas, and explore new collaboration opportunities.
+If you value innovation, collaboration, and believe that technology can change lives, let's connect. I'm always open to new ideas, projects, and partnerships that challenge the ordinary and create real value.
 
 <p align="center">
   <a href="https://discordapp.com/users/Gabreuw__#9336">
