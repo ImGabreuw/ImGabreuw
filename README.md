@@ -1,7 +1,9 @@
 <h1 align="center">👋 Welcome to my GitHub Universe!</h1>
 
 <div align="center">
-  <img src="assets/quote-card-1745719429447.png" alt="Quote">
+  <a href="https://github.com/ImGabreuw/quote-card" target="_blank">
+    <img src="assets/quote-card-1745719429447.png" alt="Quote">
+  </a>
 </div>
 
 ## 🌌 About Me
