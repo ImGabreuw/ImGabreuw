@@ -1,41 +1,7 @@
 <h1 align="center">👋 Welcome to my GitHub Universe!</h1>
 
 <div align="center">
-  <div style="
-    max-width: 650px;
-    margin: 30px auto;
-    padding: 25px 30px;
-    border-radius: 12px;
-    background: linear-gradient(145deg, #f9f9f9, #e6e6e6);
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
-    color: #333;">
-    <p style="
-      font-size: 18px;
-      line-height: 1.6;
-      font-style: italic;
-      position: relative;
-      padding: 0 15px;">
-      <span style="
-        font-size: 28px;
-        position: absolute;
-        left: -10px;
-        top: -5px;
-        color: #666;">❝</span>
-      The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.
-      <span style="
-        font-size: 28px;
-        position: absolute;
-        right: -10px;
-        bottom: -15px;
-        color: #666;">❞</span>
-    </p>
-    <p style="
-      text-align: right;
-      font-weight: 500;
-      margin-top: 15px;">
-      — Marcel Proust
-    </p>
-  </div>
+  <img src="assets/quote-card-1745719429447.png" alt="Quote">
 </div>
 
 ## 🌌 About Me
